@@ -6,7 +6,7 @@ important ability to work in fast-paced team environments.
 
 - 🔭 I’m currently working on an online clothing store.
 - 🌱 I’m currently learning **more** Javascript
-- 👯 I’m looking to collaborate on any open-source projects to gain more experience in live applications.
+- 👯 I’m looking to collaborate on any open-source projects and remote Teams to gain more experience in live applications.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love to eat, listen to song, and sleep. I am also a Liverpool FC fan.
 
