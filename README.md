@@ -1,6 +1,6 @@
 ### Hi there, I am Emmanuel Okon👋
 
-I am an experienced and results-oriented Frontend Developer, having 2+ years of experience. Offering a
+I am an experienced and results-oriented Frontend Developer, having 3+ years of experience. Offering a
 strong attention to UI detail and accuracy, effective problem-solving skills, and possessing the
 important ability to work in fast-paced team environments.
 
@@ -8,7 +8,7 @@ important ability to work in fast-paced team environments.
 - 🌱 I’m currently learning **more** Javascript
 - 👯 I’m looking to collaborate on any open-source projects and remote Teams to gain more experience in live applications.
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love to eat, listen to song, and sleep. I am also a Liverpool FC fan.
+- ⚡ Fun fact: I love to eat, listen to songs and sleep. I am also a Liverpool FC fan 🔴.
 
 <!--
 **EmmanuelOkon/emmanuelokon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
